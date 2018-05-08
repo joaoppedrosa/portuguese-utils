@@ -1,7 +1,7 @@
 # 🇵🇹 Portuguese Utils 
 [![Build Status](https://travis-ci.org/hugo-fonseca/portuguese-utils.svg?branch=master)](https://travis-ci.org/hugo-fonseca/portuguese-utils)
 
-A set of usefull utils for developing Portuguese Web Applications.
+A set of usefull utils for developing Portuguese Web Applications
 
 
 ## 🔰 How to install
